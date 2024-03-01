@@ -1,4 +1,5 @@
 # VehicleSalesDashboard
+![Vehicle_Sales_Dashboard](https://github.com/RowanGeorge12/VehicleSalesDashboard/assets/157512740/6b822243-7360-4f7f-a21c-e45323864a97)
 
 ### **Overview**
 In this portfolio project, I Rowan George presents a meticulously crafted Vehicles Sales Dashboard.The Vehicle Sales Dashboard project aimed to provide an insightful overview of sales performance in the automotive industry. Leveraging Microsoft Excel's robust features, I transformed raw data sourced from the internet into an interactive and visually appealing dashboard. The dashboard offers a comprehensive analysis of sales trends across different product lines, years, months, and countries.
@@ -12,3 +13,4 @@ The primary objective of this project was to create an intuitive and informative
 
 ### **Conclusion**
 In conclusion, this portfolio project demonstrates my proficiency in data analysis and visualization using Microsoft Excel. By leveraging various features such as pivot tables, charts, and slicers, I have developed an intuitive and informative dashboard that empowers users to extract valuable insights from complex sales data.
+
